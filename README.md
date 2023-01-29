@@ -1,3 +1,4 @@
 # hello-world
-following gitHub Docs tutorial
-## here I write about myself
+My first repository on Github 
+
+I love :coffee:, :pizza: , and :dancer:
